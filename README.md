@@ -9,4 +9,14 @@ Sharepoint Bibliothek in Canvas Apps
 und nun?
 
 ## Machen wir ein neues Bild
+
 ![](test1.excalidraw.svg)
+
+## und nun noch ein Link
+
+hier ist die url: [https://github.com/Power-Platform-Deutsch/Sharepoint-Bibliothek-in-Canvas-Apps/](https://github.com/Power-Platform-Deutsch/Sharepoint-Bibliothek-in-Canvas-Apps/)
+
+
+https://github.com/Power-Platform-Deutsch/Sharepoint-Bibliothek-in-Canvas-Apps/
+
+hmmm, ein wenig umständlich, aber ok :)
