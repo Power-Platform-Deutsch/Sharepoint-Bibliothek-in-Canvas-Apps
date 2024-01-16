@@ -1,30 +1,22 @@
-# Sharepoint-Bibliothek-in-Canvas-Apps
+# Hochladen von Dateien in eine Sharepoint-Bibliothek-in-Canvas-Apps
 
-Sharepoint Bibliothek in Canvas Apps
+Dieses Videos beschreiben wie man Dateien in einer Sharepoint Bibliothek von einer Canvas App innerhalb der Standard Lizenz hochladen kann.
 
-## ein neuer Punkt
+# Referenz
 
-![](test.excalidraw.svg)
+basierend auf dem Blog Post von Matthew Devaney (Prädikat besonders empfehlenswert)
 
-und nun?
+https://www.matthewdevaney.com/power-apps-easiest-way-to-upload-files-to-a-sharepoint-document-library/
 
-## Machen wir ein neues Bild
+# Teil 1 - eine Datei hochladen
 
-![](test1.excalidraw.svg)
+![img](teil1.excalidraw.svg)
 
-## und nun noch ein Link
+# Teil 2 - mehrere Dateien hochladen
 
-hier ist die url: [https://github.com/Power-Platform-Deutsch/Sharepoint-Bibliothek-in-Canvas-Apps/](https://github.com/Power-Platform-Deutsch/Sharepoint-Bibliothek-in-Canvas-Apps/)
-
-
-https://github.com/Power-Platform-Deutsch/Sharepoint-Bibliothek-in-Canvas-Apps/
-
-hmmm, ein wenig umständlich, aber ok :)
-
-wird aber beides als Link angezeigt - nun ja, so soll es ja sein
+![img](teil2.excalidraw.svg)
 
 
-| test1                                                    | test2               | test3             |
-| -------------------------------------------------------- | ------------------- | ----------------- |
-| jd fj slkdfj lksdj fl kl<br />lk jklj lk <br />lkj lk j |                     |          ![](test2.excalidraw.svg)         |
-|                                                          | dskjfgh fdjkg dfjkg | skjgh jksh fkjs f |
+# Teil 3 - Metadaten bearbeiten
+
+![img](teil3.excalidraw.svg)
